@@ -1,6 +1,7 @@
 // Selection sort algorithm
 #include <stdio.h>
 #include <stdlib.h>
+
 void merge(int low, int high, int mid, int *c)
 {
     int i = low;
